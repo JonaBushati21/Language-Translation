@@ -26,10 +26,16 @@ Replace App.js and index.css with my files
 Command line npm start in the same directory as the files
 
 p.s as i remember I have also installed npm command, make sure to add the path in the environmental variables since its command line
-
+p.s.s To make bootstrap available, you have to install it
 
 
 
 p.s I wanted to add the button as a font awesome icon, but for some reasons It didnt recognize the module when i tried to import it even though I have installed it...
+
+
+References: 1. Run App  https://facebook.github.io/create-react-app/docs/getting-started
+            2. Run Bootstrap https://facebook.github.io/create-react-app/docs/adding-bootstrap
+
+
 
 #thankyou
