@@ -30,12 +30,12 @@ p.s.s To make bootstrap available, you have to install it
 
 
 
-p.s I wanted to add the button as a font awesome icon, but for some reasons It didnt recognize the module when i tried to import it even though I have installed it...
+p.s. s. s I wanted to add the button as a font awesome icon, but for some reasons It didnt recognize the module when i tried to import it even though I have installed it...
 
 
 References: 1. Run App  https://facebook.github.io/create-react-app/docs/getting-started
             2. Run Bootstrap https://facebook.github.io/create-react-app/docs/adding-bootstrap
 
-
+A Screenshot is also provided in this repo
 
 #thankyou
