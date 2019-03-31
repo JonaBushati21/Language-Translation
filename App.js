@@ -460,7 +460,7 @@ else    if (e.target.value==this.state.word_20_german)
 
   }
 
-activateLasers(event) {
+activate(event) {
  
              this.setState({
                 
@@ -492,7 +492,7 @@ activateLasers(event) {
                     <input type="text" placeholder = "Write here.." onChange={this.input_one.bind(this)} value={this.state.inputvalue}onKeyPress={this._handleKeyPress} class="input_css" />
                     
                    
-            <div class="button_class"><button onClick={this.activateLasers.bind(this)} >
+            <div class="button_class"><button onClick={this.activate.bind(this)} >
                         Switch Language
                     </button>
                     </div>
